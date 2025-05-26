@@ -59,3 +59,7 @@ Feel free to check out my repositories or reach out!
 ---
 
 Visit my LinkedIn profile: https://www.linkedin.com/in/jdv57/
+
+### Github Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jd-velasquezr&theme=navy-gear&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
