@@ -17,10 +17,11 @@ I’m passionate about building smart systems that connect software, hardware, a
 ## 🧠 Areas of focus
 
 - Machine Learning & Deep Learning  
-- Data Science & Predictive Modeling  
+- Data Science & Predictive Modeling
+- Computer Vision, Sensor Fusion & Image Processing
 - Microcontroller Programming & Embedded Software  
 - Aerial Robotics & Autonomous Navigation  
-- Computer Vision & Sensor Fusion  
+
 
    </td>
    <td>
