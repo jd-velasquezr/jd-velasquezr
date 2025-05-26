@@ -63,3 +63,5 @@ Visit my LinkedIn profile: https://www.linkedin.com/in/jdv57/
 ### Github Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jd-velasquezr&theme=navy-gear&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jd-velasquezr&show_icons=true&bg_color=00000000)
