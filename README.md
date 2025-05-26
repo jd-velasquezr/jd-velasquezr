@@ -40,7 +40,8 @@ I’m passionate about building smart systems that connect software, hardware, a
 - 🛩 Zagi drone with GPS-based autonomous flight  
 - 🌱 AI for strawberry crop disease detection  
 - 🛍 Perfume e-commerce web app with animations  
-- 🧠 Multi-class mental health classification using OvA strategy  
+- 🧠 Multi-class mental health classification using OvA strategy
+- 🎸 Multi-class musical instrument for e-shop making use of Stacking Ensemble strategy  
 
    </td>
   </tr>
