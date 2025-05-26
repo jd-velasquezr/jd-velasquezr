@@ -1,4 +1,4 @@
-# 👋 Hi there! Welcome to my GitHub. My name is David!
+# 👋 Welcome to my GitHub. My name is David!
 
 I'm an **Electronics Engineer** and currently a **Master’s student in Intelligent Systems and Robotics** at the **University of Essex**, where I'm also an active member of the **School of Computer Science and Electronic Engineering (CSEE)**.
 
